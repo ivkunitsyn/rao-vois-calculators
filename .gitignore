@@ -1,0 +1,28 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+# runtime data
+data/
+*.xlsx
+*.xls
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+uploads/
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+._*

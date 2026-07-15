@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+openpyxl
+numpy<2.0
+python-dateutil
+et-xmlfile
+six
+python-telegram-bot==21.6
+python-docx
+python-multipart
